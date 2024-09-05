@@ -1,5 +1,9 @@
-## Hi there 👋
+## Howdy! 
 
+- I'm a quantitative population ecologist interesting in bridging theory and statistical ecology.
+- My pronouns are he/him. I'm a queer guy working in ecology, and you can read about why that matters to me [here](https://plantae.org/a-queer-stroll-through-the-meadow/). 
+- I'm originally from the northeast, and am a big fan of the forests of the northeast.
+- You can learn more at my [personal website](https://jeremycollings.com/). 
 <!--
 **jeremyacollings/jeremyacollings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
