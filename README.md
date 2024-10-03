@@ -7,4 +7,4 @@
 - I'm originally from the northeast, and am a big fan of the forests of the northeast. I love all the pretty spring ephemerals and fall foliage. 
 - You can learn more at my [personal website](https://jeremycollings.com/). 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyacollings&layout=donut)](https://github.com/jeremyacollings/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyacollings&layout=donut&theme=dark)](https://github.com/jeremyacollings/github-readme-stats)
